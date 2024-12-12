@@ -21,8 +21,8 @@ Ensure you have the following installed:
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/sanjubarker/markdown-live-preview-server.git
+   cd markdown-live-preview-server
    ```
 
 2. Install dependencies:
